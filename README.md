@@ -1,2 +1,4 @@
-# websocket-server-c
-A Websocket Server written in C
+# Websocket Server
+
+A lightweight Websocket server library, written on top of BSD sockets API.
+
