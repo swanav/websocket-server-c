@@ -1,0 +1,7 @@
+[submodule "libs/llhttp/llhttp"]
+	path = libs/llhttp/llhttp
+	url = https://github.com/nodejs/llhttp
+	branch = release
+[submodule "libs/mbedtls"]
+	path = libs/mbedtls
+	url = https://github.com/ARMmbed/mbedtls
